@@ -1,0 +1,10 @@
+{
+  "demo": {
+    "title": "Demostración de Traducción",
+    "simple": {
+      "text-with-pipe": "Este texto está traducido usando el pipe",
+      "text-as-attribute": "Este texto está traducido usando el atributo translate",
+      "text-as-content": "Este texto está traducido usando la directiva translate como contenido"
+    }
+  }
+}

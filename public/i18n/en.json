@@ -1,0 +1,10 @@
+{
+  "demo": {
+    "title": "Translation Demo",
+    "simple": {
+      "text-with-pipe": "This text is translated using the pipe",
+      "text-as-attribute": "This text is translated using the translate attribute",
+      "text-as-content": "This text is translated using the translate directive as content"
+    }
+  }
+}
